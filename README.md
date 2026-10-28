@@ -1,8 +1,6 @@
 # 🧩 Physics-Puzzle
 
-<p align="center">
-  <img src="production/images/logo-sheet0.png" width="480" alt="Physics Puzzle">
-</p>
+
 
 **Physics-Puzzle** is a fun, web-based physics puzzle game built with Construct 2. Use crates, TNT, planks and more to guide the bone to the dog across **10 handcrafted levels** — straight in your browser, no install needed.
 
